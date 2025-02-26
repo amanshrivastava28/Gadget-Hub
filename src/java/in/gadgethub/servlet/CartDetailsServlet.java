@@ -55,7 +55,7 @@ public class CartDetailsServlet extends HttpServlet {
            String uid=request.getParameter("uid");
            String pid=request.getParameter("pid");
            int avail=Integer.parseInt(request.getParameter("avail"));
-           int cartQty=Integer.parseInt(request.getParameter("pqty"));
+           int cartQty=Integer.parseInt(request.getParameter("qty"));
            CartDAOImpl cartDao=new CartDAOImpl();
            if(add==1){
                cartQty+=1;

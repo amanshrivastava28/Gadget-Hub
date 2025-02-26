@@ -29,7 +29,7 @@
             <p>
               <i class="fa-solid fa-envelope"></i> Email : akssingh1423@gmail.com
             </p>
-            <p><i class="fa-solid fa-signs-post"></i> Postal Code : 461661</p>
+            <p><i class="fa-solid fa-signs-post"></i> Postal Code : 462022</p>
           </div>
 
           <div class="col-md-8">
